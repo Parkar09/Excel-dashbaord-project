@@ -17,3 +17,15 @@ FINAL CONCLUSION to improve store sales :
 
 after downloading the RAW data you will get an interactive dashbaord
 
+
+
+
+![dash](https://user-images.githubusercontent.com/125332797/221538041-56b9c668-ec17-4dbf-b64a-2378a51faea2.png)
+
+
+
+
+
+
+
+
