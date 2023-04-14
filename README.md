@@ -1,6 +1,23 @@
 # Excel-dashbaord-project
 This is a annual sales data analysis report for a store so they can analyze and understand their customer growth  and grow more sales in future.
 
+
+
+
+
+
+QUESTIONS RESOLVED-
+
+#compare the sales and orders using single chart?
+#which month got the highest sales and orders?
+#Who purchased more -men or women?
+#what are different order status?
+#top states contributing the sales?
+#Relation between age and gender bases on number of orders ?
+#Which channel contribbuting maximum sales?
+#Highest selling catagory?
+
+
 SAMPLE INSIGHTS
 
 1.Women are more likely to buy compared to man(~65%)
