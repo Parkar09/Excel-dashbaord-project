@@ -14,8 +14,8 @@ QUESTIONS RESOLVED-
 #what are different order status?
 #top states contributing the sales?
 #Relation between age and gender bases on number of orders ?
-#Which channel contribbuting maximum sales?
-#Highest selling catagory?
+#Which channel contributing maximum sales?
+#Highest selling category?
 
 
 SAMPLE INSIGHTS
