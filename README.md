@@ -27,7 +27,7 @@ SAMPLE INSIGHTS
 
 
 FINAL CONCLUSION to improve store sales :
-#Target women customers of age group(30-49)living in Maharashtra,karnataka and Up by showing Ads/offers/coupons Available on Amazon,Flipkart and Myntra
+#Target women customers of age group(30-49)living in Maharashtra,karnataka and Up by showing Ads/offers/coupons Available on Amazon,Flipkart and Myntra.
 
 
 
